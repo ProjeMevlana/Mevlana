@@ -1,4 +1,4 @@
-{
+﻿{
 	"packages": [{
 		"name": "Mevlana",
 		"maintainer": "Proje Mevlana",
@@ -8,7 +8,7 @@
 			"online": "http://mevlana.projemevlana.org"
 		},
 		"platforms": [{
-			"name": "Mevlana Geliştirme Kartı",
+			"name": "Mevlana Gelistirme Kartı",
 			"architecture": "avr",
 			"version": "1.0.0",
 			"category": "Mevlana",
