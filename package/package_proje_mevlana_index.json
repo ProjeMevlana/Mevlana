@@ -14,8 +14,8 @@
 					"architecture": "avr",
 					"version": "1.0.0",
 					"category": "Contributed",
-					"url": "https://raw.githubusercontent.com/ProjeMevlana/Mevlana/master/code/Mevlana-arduino-hardware.zip",
-					"archiveFileName": "Mevlana-arduino-hardware.zip",
+					"url": "https://raw.githubusercontent.com/ProjeMevlana/Mevlana/master/code/Mevlana_hardware.zip",
+					"archiveFileName": "Mevlana_hardware.zip",
 					"checksum": "SHA-256:9128B24EA5E140B3795571755DDBF040B2F923CD7A07FA4CED8F822C46AB5EA8",
 					"size": "155648",
 					"help": {
