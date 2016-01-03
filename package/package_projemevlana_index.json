@@ -14,9 +14,9 @@
 					"architecture": "avr",
 					"version": "1.0.0",
 					"category": "Contributed",
-					"url": "http://code.quirkbot.com/downloads/Mevlana-arduino-hardware.zip",
+					"url": "https://raw.githubusercontent.com/ProjeMevlana/Mevlana/master/code/Mevlana-arduino-hardware.zip",
 					"archiveFileName": "Mevlana-arduino-hardware.zip",
-					"checksum": "SHA-256:6702663fee34e14a207ed3fae39421e074eaf8fc5f350826c70c27a140224437",
+					"checksum": "SHA-256:663EDDAD571D2511D23CDE1858D24123D3B00B284792A837639A012D9ABB3B6C",
 					"size": "131580",
 					"help": {
 						"online": "http://mevlana.projemevlana.org"
