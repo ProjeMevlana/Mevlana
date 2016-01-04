@@ -10,22 +10,14 @@
 			},
 			"platforms": [
 				{
-					"name": "Mevlana Gelistirme Kartlari",
+					"name": "Mevlana Mikro Denetleyici Geliştirme Kartları",
 					"architecture": "avr",
 					"version": "1.0.0",
 					"category": "Contributed",
 					"url": "https://raw.githubusercontent.com/ProjeMevlana/Mevlana/master/code/Mevlana_hardware.zip",
 					"archiveFileName": "Mevlana_hardware.zip",
-<<<<<<< HEAD
-<<<<<<< HEAD
-					"checksum": "SHA-256:C9EE6EF9BAE89A80F8063A31C2124DAF3D204A253B54599719583E1A33E36DFF",
-=======
-					"checksum": "SHA-256:44653209C7BC21815589552ED9B58B8BA041B0891984085716B42E6468931696",
->>>>>>> parent of ecadbf7... v1.0
-=======
-					"checksum": "SHA-256:8C0AB4096A84A840E673A47B89F04CA44CC94B4E9C1787FC3D07FF2310166A23",
->>>>>>> parent of b4077de... v1.0
-					"size": "151552",
+					"checksum": "SHA-256:35D60F818042BD2B055E4F88F789E532D802633CF151056DCDA231383C709A41",
+					"size": "147456",
 					"help": {
 						"online": "http://mevlana.projemevlana.org"
 					},
