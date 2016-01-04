@@ -16,7 +16,11 @@
 					"category": "Contributed",
 					"url": "https://raw.githubusercontent.com/ProjeMevlana/Mevlana/master/code/Mevlana_hardware.zip",
 					"archiveFileName": "Mevlana_hardware.zip",
+<<<<<<< HEAD
 					"checksum": "SHA-256:C9EE6EF9BAE89A80F8063A31C2124DAF3D204A253B54599719583E1A33E36DFF",
+=======
+					"checksum": "SHA-256:44653209C7BC21815589552ED9B58B8BA041B0891984085716B42E6468931696",
+>>>>>>> parent of ecadbf7... v1.0
 					"size": "151552",
 					"help": {
 						"online": "http://mevlana.projemevlana.org"
