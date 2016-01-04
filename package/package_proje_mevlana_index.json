@@ -10,13 +10,13 @@
 			},
 			"platforms": [
 				{
-					"name": "Mevlana Gelistirme Kartlari",
+					"name": "Mevlana Geliştirme Kartları",
 					"architecture": "avr",
 					"version": "1.0.0",
 					"category": "Contributed",
 					"url": "https://raw.githubusercontent.com/ProjeMevlana/Mevlana/master/code/Mevlana_hardware.zip",
 					"archiveFileName": "Mevlana_hardware.zip",
-					"checksum": "SHA-256:8C0AB4096A84A840E673A47B89F04CA44CC94B4E9C1787FC3D07FF2310166A23",
+					"checksum": "SHA-256:44653209C7BC21815589552ED9B58B8BA041B0891984085716B42E6468931696",
 					"size": "151552",
 					"help": {
 						"online": "http://mevlana.projemevlana.org"
