@@ -13,7 +13,7 @@
 					"name": "Mevlana Mikro Denetleyici Geliştirme Kartları",
 					"architecture": "avr",
 					"version": "1.0.0",
-					"category": "Contributed",
+					"category": "Proje Mevlana",
 					"url": "https://raw.githubusercontent.com/ProjeMevlana/Mevlana/master/code/Mevlana_hardware.zip",
 					"archiveFileName": "Mevlana_hardware.zip",
 					"checksum": "SHA-256:bdcdd5e8fb2e75b728b2e1ef3577086ce189b0dd31e091df81c5d06bfaee1fba",
